@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#3c3c3c</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="perpal">#673AB7</color>
+    <color name="light_blue">#2196F3</color>
+    <color name="sky">#00BCD4</color>
+    <color name="green">#c2c2c2</color>
+    <color name="weight">#606060</color>
+    <color name="result">#dedede</color>
+    <color name="tru"></color>
+
+    <color name="under_weight">#64FFDA</color>
+    <color name="normal">#43A047</color>
+    <color name="over_weight">#F4511E</color>
+    <color name="obses">#DD1807</color>
+
+
+</resources>
